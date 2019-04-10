@@ -26,6 +26,7 @@ public class AeMoneyApplication {
 
 	public static void main(String[] args) {
 
+		
 		System.out.println("Version:V0.1");
 		JoshApplication.AppId = JoshApplication.AeMoney;
 		MenuWindow.type = MenuWindow.DAQIAN;
