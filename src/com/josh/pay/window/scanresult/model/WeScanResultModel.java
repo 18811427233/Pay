@@ -5,7 +5,6 @@ import org.json.me.JSONObject;
 
 import com.josh.pay.constant.Constant;
 import com.josh.pay.net.adapter.PayNetAdapter;
-import com.josh.pay.service.AliPayService;
 import com.josh.pay.service.WeChatPayService;
 import com.josh.pay.window.scanresult.MIScanResultInterface;
 import com.josh.pay.window.scanresult.WIScanResultInterface;

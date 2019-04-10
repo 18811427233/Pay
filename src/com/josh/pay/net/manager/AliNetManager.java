@@ -2,7 +2,6 @@ package com.josh.pay.net.manager;
 
 import java.io.IOException;
 
-import org.joshvm.j2me.cellular.CellularDeviceInfo;
 import org.json.me.JSONObject;
 
 import com.josh.pay.net.NetCallback;

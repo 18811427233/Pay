@@ -6,8 +6,6 @@ import org.json.me.JSONObject;
 import com.josh.pay.constant.Constant;
 import com.josh.pay.net.adapter.AeMoneyNetAdapter;
 import com.josh.pay.service.AeMoneyService;
-import com.josh.pay.window.WindowManager;
-import com.josh.pay.window.login.LoginWindow;
 import com.josh.pay.window.show.MIShowInterface;
 import com.josh.pay.window.show.WIShowInterface;
 

@@ -1,7 +1,6 @@
 package com.josh.pay.service;
 
 import org.json.me.util.DeviceUtil;
-import org.json.me.util.IllegalServiceStateException;
 
 import com.josh.pay.net.adapter.AeMoneyNetAdapter;
 import com.josh.pay.net.manager.AeMoneyNetManager;

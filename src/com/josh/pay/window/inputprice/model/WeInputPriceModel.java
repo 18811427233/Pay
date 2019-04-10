@@ -5,7 +5,6 @@ import org.joshvm.j2me.directUI.Image;
 import org.json.me.JSONException;
 import org.json.me.JSONObject;
 
-import com.josh.pay.AEImage;
 import com.josh.pay.constant.Constant;
 import com.josh.pay.net.adapter.PayNetAdapter;
 import com.josh.pay.service.WeChatPayService;
