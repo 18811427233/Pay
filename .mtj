@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mtjMetadata jad="JoshPay.jad" version="2.0.1.201901080908">
-   <device group="Josh Device SDK" name="JOSHDTUDevice"/>
+   <device group="Josh Device SDK" name="JOSHDirectUIDevice"/>
    <signing projectSpecific="false" signProject="false">
       <alias/>
    </signing>
    <configurations>
-      <configuration active="true" name="JOSHDTUDevice">
+      <configuration active="true" name="JOSHDirectUIDevice">
          <device group="Josh Device SDK" name="JOSHDirectUIDevice"/>
          <symbolSet name="JOSHDirectUIDevice">
             <symbol name="apis.supported" value="CLDC-1.1.1,JOSHVM-1.0,WMA-1.1,JSR75-1.0,JOSHCellular-1.0,JOSHUtil-1.0,JOSHDIO-1.0,GCF-1.0,DirectUI-1.0,CryptoAPI-1.0,XMLAPI-1.0"/>
@@ -17,8 +17,8 @@
             <symbol name="JOSHCrypto" value="1.0"/>
             <symbol name="CLDC" value="1.1"/>
             <symbol name="JOSHVM" value="1.0"/>
+            <symbol name="JOSHDirectUI" value="1.0"/>
             <symbol name="JOSHUtil" value="1.0"/>
-            <symbol name="DirectUI" value="1.0"/>
             <symbol name="JSR75" value="1.0"/>
             <symbol name="JOSHDIO" value="1.0"/>
             <symbol name="JSR280" value="1.0"/>
